@@ -1,0 +1,7 @@
+body {
+    /* background-image: url('./background.jpg'); Set the path to your background image */
+    background-size: cover; /* Cover the entire viewport with the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-color: rgba(0, 0, 0, 0.001);
+  }
+  
